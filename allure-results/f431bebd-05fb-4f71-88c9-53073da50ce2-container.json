@@ -1,0 +1,1 @@
+{"uuid":"f431bebd-05fb-4f71-88c9-53073da50ce2","name":"DevPreactice","children":["f702fe2c-079d-40a4-b8cd-7d5e48dc1385"],"befores":[{"name":"openApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1590406813550,"stop":1590406816701}],"afters":[],"links":[],"start":1590406813545,"stop":1590406851105}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/sivareddyk/IdeaProjects/DevPreactice/src/test/java/WebAutomation/SampleTest.java">
+        <classes>
+            <class name="WebAutomation.SampleTest">
+                <methods>
+                    <include name="firstTest"/>
+                </methods></class>
+        </classes>
+    </test></suite>
